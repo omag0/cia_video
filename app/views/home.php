@@ -1,5 +1,5 @@
 <?php
-$this->paginaTitulo = "teste";
+$this->paginaTitulo = "Commit";
 $this->layout('layout.topo');
 session_start();
 unset($_SESSION['logado_administrador_email']);
